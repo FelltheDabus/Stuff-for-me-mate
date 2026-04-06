@@ -16,5 +16,3 @@
 # To get specific files:
 
 > You can just click on individual files you want here on GitHub and then click the download up on the top right next to where it says "RAW"
-
-2T*qwS&HxrRyWwZ
