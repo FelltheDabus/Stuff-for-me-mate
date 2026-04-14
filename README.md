@@ -12,6 +12,6 @@
 
 > Right click inside the folder --> open in terminal
 
-> Enter ||git clone paste the HTTPS adress||
+> Enter "git clone (paste the HTTPS adress)"
 
 > Watch the magic happen
