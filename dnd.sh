@@ -1,0 +1,21 @@
+cd
+open vsos.pdf
+sleep 1
+open roth.pdf
+sleep 1
+open wsg.pdf
+sleep 1
+open vgtm.pdf
+sleep 1
+open https://5e.tools/
+sleep 1
+open https://docs.google.com/
+sleep 1
+open https://roll20.net/welcome
+sleep 1
+open https://anyflip.com/qkxdf/mwdk
+sleep 1
+open https://www.youtube.com/feed/subscriptions
+sleep 5
+open Discord
+cd ~
