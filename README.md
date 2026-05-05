@@ -30,6 +30,6 @@
 
 ## Linux
 
-### To update everything on your compute
+### To update everything on your computer.
 
 > `sudo apt update && sudo apt upgrade`
