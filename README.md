@@ -24,12 +24,12 @@
 
 > `winget list`
 
-### To update everything on your computer.
+### To update everything on your computer
 
 > `winget upgrade --all`
 
 ## Linux
 
-### To update everything on your computer.
+### To update everything on your computer
 
 > `sudo apt update && sudo apt upgrade`
