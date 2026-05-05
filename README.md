@@ -17,7 +17,7 @@
 
 > Watch the magic happen
 
-# Also if you want to be a smooth cool person
+# Also, if you want to be a smooth cool person
 
 To update everything on your computer.
 
