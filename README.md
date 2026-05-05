@@ -12,22 +12,24 @@
 
 > Right click inside the folder --> open in terminal
 
-
 > Enter `git clone (paste the URL)`
 
 > Watch the magic happen
 
 # Also, if you want to be a smooth cool person
 
-### To see all packages Winget knows about (Windows)
+## Windows
 
-> winget list
+### To see all packages Winget knows about -  a more comprehensive list than you would get from the settings GUI app
+
+> `winget list`
 
 ### To update everything on your computer.
 
-## Windows
-> winget upgrade --all
+> `winget upgrade --all`
 
 ## Linux
 
-> sudo apt update && sudo apt upgrade
+### To update everything on your compute
+
+> `sudo apt update && sudo apt upgrade`
