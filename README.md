@@ -19,11 +19,11 @@
 
 # Also, if you want to be a smooth cool person
 
-To see all packages Winget knows about (Windows)
+### To see all packages Winget knows about (Windows)
 
 > winget list
 
-To update everything on your computer.
+### To update everything on your computer.
 
 ## Windows
 > winget upgrade --all
