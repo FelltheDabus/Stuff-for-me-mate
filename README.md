@@ -10,8 +10,20 @@
 
 > Open the explorer and create a folder for you to store the things. It will need to be an empty folder for the clone to work
 
-> Right click inside the folder --> open in terminal
+> Right click inside the folder --> open in terminal
+
 
 > Enter `git clone (paste the URL)`
 
-> Watch the magic happen
+> Watch the magic happen
+
+# Also if you want to be a smooth cool person
+
+To update everything on your computer.
+
+## Windows
+> winget upgrade --all
+
+## Linux
+
+> sudo apt update && sudo apt upgrade
